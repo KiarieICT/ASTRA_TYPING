@@ -13,7 +13,7 @@ monitor=LabelFrame(root,width=800,height=50,padx=50,pady=30,bg="#87ceeb")
 monitor.pack(padx=5, pady=10)
 
 
-label_string="D A N I E L K I A R I E"
+label_string="A S D F G H J K L ;"
 #split the string into individual labels
 labels_list=label_string.split()
 
